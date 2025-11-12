@@ -13,15 +13,11 @@ import torch.nn as nn
 class TicTacToeNet(nn.Module):
     def __init__(self):
         super(TicTacToeNet, self).__init__()
-        # self.fc1 = nn.Linear(10, 32)
-        # self.fc2 = nn.Linear(32, 64)
-        # self.fc3 = nn.Linear(64, 32)
-        # self.fc4 = nn.Linear(32, 10)
-
-        self.fc1 = nn.Linear(10, 16)
-        self.fc2 = nn.Linear(16, 32)
-        self.fc3 = nn.Linear(32, 16)
-        self.fc4 = nn.Linear(16, 10)
+        # Architecture must match the saved model weights
+        self.fc1 = nn.Linear(10, 32)
+        self.fc2 = nn.Linear(32, 64)
+        self.fc3 = nn.Linear(64, 32)
+        self.fc4 = nn.Linear(32, 10)
         
         self.relu = nn.ReLU()
         self.tanh = nn.Tanh()

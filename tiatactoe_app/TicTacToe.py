@@ -14,7 +14,7 @@ EOG      = False
 minimax_ttt = Minimax_TicTacToe()
 nn_ttt = TicTacToeNet()
 #nn_ttt.load_state_dict(torch.load("TTT_Weights_Overfit.pth"))
-nn_ttt.load_state_dict(torch.load("TicTacToeWeight.pth"))
+nn_ttt.load_state_dict(torch.load("TicTacToe_Model.pth"))
 
 
 

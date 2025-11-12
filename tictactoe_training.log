@@ -1,0 +1,56 @@
+2025-11-11 19:39:15,519 - INFO - Training session started
+2025-11-11 19:39:15,527 - INFO - Dataset: 5478 samples, feature shape: (5478, 10)
+2025-11-11 19:39:15,527 - INFO - Target distribution: [ 958 1081  587  676  365  713  244  365  171  318]
+2025-11-11 19:39:16,022 - INFO - Model created with 4874 parameters
+2025-11-11 19:39:16,106 - INFO - Epoch 1: Train Loss=2.097490, Train Acc=28.01%, Test Loss=1.797413, Test Acc=45.62%, Time=0.08s
+2025-11-11 19:39:16,138 - INFO - Epoch 2: Train Loss=1.610376, Train Acc=48.80%, Test Loss=1.284781, Test Acc=58.94%, Time=0.03s
+2025-11-11 19:39:16,169 - INFO - Epoch 3: Train Loss=1.286122, Train Acc=57.81%, Test Loss=1.117194, Test Acc=62.41%, Time=0.03s
+2025-11-11 19:39:16,202 - INFO - Epoch 4: Train Loss=1.163476, Train Acc=60.16%, Test Loss=1.049566, Test Acc=61.13%, Time=0.03s
+2025-11-11 19:39:16,234 - INFO - Epoch 5: Train Loss=1.101012, Train Acc=61.48%, Test Loss=0.984838, Test Acc=63.87%, Time=0.03s
+2025-11-11 19:39:16,269 - INFO - Epoch 6: Train Loss=1.050951, Train Acc=62.07%, Test Loss=0.936234, Test Acc=65.51%, Time=0.03s
+2025-11-11 19:39:16,300 - INFO - Epoch 7: Train Loss=1.004571, Train Acc=63.31%, Test Loss=0.934363, Test Acc=64.05%, Time=0.03s
+2025-11-11 19:39:16,332 - INFO - Epoch 8: Train Loss=0.980517, Train Acc=64.14%, Test Loss=0.893917, Test Acc=67.70%, Time=0.03s
+2025-11-11 19:39:16,364 - INFO - Epoch 9: Train Loss=0.951679, Train Acc=64.32%, Test Loss=0.885510, Test Acc=66.24%, Time=0.03s
+2025-11-11 19:39:16,395 - INFO - Epoch 10: Train Loss=0.939890, Train Acc=64.26%, Test Loss=0.853840, Test Acc=66.79%, Time=0.03s
+2025-11-11 19:39:16,426 - INFO - Epoch 11: Train Loss=0.922135, Train Acc=65.50%, Test Loss=0.884531, Test Acc=65.88%, Time=0.03s
+2025-11-11 19:39:16,457 - INFO - Epoch 12: Train Loss=0.907548, Train Acc=65.40%, Test Loss=0.842217, Test Acc=67.15%, Time=0.03s
+2025-11-11 19:39:16,488 - INFO - Epoch 13: Train Loss=0.883810, Train Acc=66.19%, Test Loss=0.837631, Test Acc=66.42%, Time=0.03s
+2025-11-11 19:39:16,537 - INFO - Epoch 14: Train Loss=0.884118, Train Acc=65.52%, Test Loss=0.823980, Test Acc=67.88%, Time=0.05s
+2025-11-11 19:39:16,568 - INFO - Epoch 15: Train Loss=0.855924, Train Acc=66.57%, Test Loss=0.796890, Test Acc=66.61%, Time=0.03s
+2025-11-11 19:39:16,599 - INFO - Epoch 16: Train Loss=0.842259, Train Acc=66.21%, Test Loss=0.795398, Test Acc=68.61%, Time=0.03s
+2025-11-11 19:39:16,630 - INFO - Epoch 17: Train Loss=0.838926, Train Acc=67.26%, Test Loss=0.794229, Test Acc=66.42%, Time=0.03s
+2025-11-11 19:39:16,660 - INFO - Epoch 18: Train Loss=0.830742, Train Acc=66.75%, Test Loss=0.800415, Test Acc=67.15%, Time=0.03s
+2025-11-11 19:39:16,693 - INFO - Epoch 19: Train Loss=0.818494, Train Acc=67.06%, Test Loss=0.814506, Test Acc=66.79%, Time=0.03s
+2025-11-11 19:39:16,728 - INFO - Epoch 20: Train Loss=0.824746, Train Acc=66.61%, Test Loss=0.800873, Test Acc=66.97%, Time=0.03s
+2025-11-11 19:39:16,759 - INFO - Epoch 21: Train Loss=0.798004, Train Acc=68.40%, Test Loss=0.795212, Test Acc=66.24%, Time=0.03s
+2025-11-11 19:39:16,790 - INFO - Epoch 22: Train Loss=0.798452, Train Acc=68.34%, Test Loss=0.775496, Test Acc=67.34%, Time=0.03s
+2025-11-11 19:39:16,821 - INFO - Epoch 23: Train Loss=0.802534, Train Acc=67.40%, Test Loss=0.778581, Test Acc=64.96%, Time=0.03s
+2025-11-11 19:39:16,852 - INFO - Epoch 24: Train Loss=0.786158, Train Acc=67.95%, Test Loss=0.754002, Test Acc=67.34%, Time=0.03s
+2025-11-11 19:39:16,882 - INFO - Epoch 25: Train Loss=0.778948, Train Acc=68.60%, Test Loss=0.758039, Test Acc=66.79%, Time=0.03s
+2025-11-11 19:39:16,913 - INFO - Epoch 26: Train Loss=0.773278, Train Acc=68.86%, Test Loss=0.751633, Test Acc=67.15%, Time=0.03s
+2025-11-11 19:39:16,944 - INFO - Epoch 27: Train Loss=0.768622, Train Acc=68.48%, Test Loss=0.749720, Test Acc=67.15%, Time=0.03s
+2025-11-11 19:39:16,975 - INFO - Epoch 28: Train Loss=0.767858, Train Acc=69.01%, Test Loss=0.783747, Test Acc=66.06%, Time=0.03s
+2025-11-11 19:39:17,006 - INFO - Epoch 29: Train Loss=0.760170, Train Acc=69.13%, Test Loss=0.754850, Test Acc=67.70%, Time=0.03s
+2025-11-11 19:39:17,039 - INFO - Epoch 30: Train Loss=0.762941, Train Acc=68.92%, Test Loss=0.750318, Test Acc=67.15%, Time=0.03s
+2025-11-11 19:39:17,070 - INFO - Epoch 31: Train Loss=0.744048, Train Acc=69.59%, Test Loss=0.732069, Test Acc=66.61%, Time=0.03s
+2025-11-11 19:39:17,100 - INFO - Epoch 32: Train Loss=0.742352, Train Acc=69.59%, Test Loss=0.738051, Test Acc=68.07%, Time=0.03s
+2025-11-11 19:39:17,131 - INFO - Epoch 33: Train Loss=0.729067, Train Acc=69.98%, Test Loss=0.733834, Test Acc=66.97%, Time=0.03s
+2025-11-11 19:39:17,171 - INFO - Epoch 34: Train Loss=0.736869, Train Acc=69.94%, Test Loss=0.716997, Test Acc=68.80%, Time=0.04s
+2025-11-11 19:39:17,225 - INFO - Epoch 35: Train Loss=0.731091, Train Acc=70.04%, Test Loss=0.753225, Test Acc=66.06%, Time=0.05s
+2025-11-11 19:39:17,298 - INFO - Epoch 36: Train Loss=0.744024, Train Acc=69.39%, Test Loss=0.738558, Test Acc=66.61%, Time=0.05s
+2025-11-11 19:39:17,389 - INFO - Epoch 37: Train Loss=0.727139, Train Acc=70.57%, Test Loss=0.717116, Test Acc=71.90%, Time=0.09s
+2025-11-11 19:39:17,458 - INFO - Epoch 38: Train Loss=0.721698, Train Acc=70.43%, Test Loss=0.749464, Test Acc=68.25%, Time=0.07s
+2025-11-11 19:39:17,502 - INFO - Epoch 39: Train Loss=0.728663, Train Acc=69.90%, Test Loss=0.731440, Test Acc=66.42%, Time=0.04s
+2025-11-11 19:39:17,546 - INFO - Epoch 40: Train Loss=0.717404, Train Acc=70.73%, Test Loss=0.723807, Test Acc=69.16%, Time=0.04s
+2025-11-11 19:39:17,591 - INFO - Epoch 41: Train Loss=0.708306, Train Acc=70.91%, Test Loss=0.726689, Test Acc=67.70%, Time=0.04s
+2025-11-11 19:39:17,639 - INFO - Epoch 42: Train Loss=0.704502, Train Acc=70.97%, Test Loss=0.708531, Test Acc=68.61%, Time=0.05s
+2025-11-11 19:39:17,724 - INFO - Epoch 43: Train Loss=0.712751, Train Acc=71.05%, Test Loss=0.747358, Test Acc=68.43%, Time=0.08s
+2025-11-11 19:39:17,787 - INFO - Epoch 44: Train Loss=0.708615, Train Acc=70.47%, Test Loss=0.700809, Test Acc=70.62%, Time=0.06s
+2025-11-11 19:39:17,838 - INFO - Epoch 45: Train Loss=0.700938, Train Acc=71.01%, Test Loss=0.714873, Test Acc=68.80%, Time=0.05s
+2025-11-11 19:39:17,879 - INFO - Epoch 46: Train Loss=0.699306, Train Acc=70.89%, Test Loss=0.718530, Test Acc=66.97%, Time=0.04s
+2025-11-11 19:39:17,923 - INFO - Epoch 47: Train Loss=0.696363, Train Acc=71.03%, Test Loss=0.695204, Test Acc=69.53%, Time=0.04s
+2025-11-11 19:39:17,977 - INFO - Epoch 48: Train Loss=0.686416, Train Acc=71.66%, Test Loss=0.695312, Test Acc=71.35%, Time=0.05s
+2025-11-11 19:39:18,059 - INFO - Epoch 49: Train Loss=0.679173, Train Acc=72.45%, Test Loss=0.727438, Test Acc=66.97%, Time=0.08s
+2025-11-11 19:39:18,111 - INFO - Epoch 50: Train Loss=0.687727, Train Acc=71.83%, Test Loss=0.750650, Test Acc=67.15%, Time=0.05s
+2025-11-11 19:39:43,939 - INFO - Training completed in 28.4s
+2025-11-11 19:39:43,940 - INFO - Final metrics - Train Acc: 71.83%, Test Acc: 67.15%, Loss: 0.687727
