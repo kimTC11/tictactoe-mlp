@@ -1,0 +1,24 @@
+# Pure CNN Gomoku Training Requirements
+
+# Core dependencies
+torch>=2.0.0
+numpy>=1.21.0
+tqdm>=4.62.0
+
+# Data processing
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Development and packaging
+setuptools>=65.0.0
+wheel>=0.37.0
+
+# Note: For Mac M4 MPS support:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+# For CUDA support on other systems:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
